@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewMontes</string>
+    <string name="crear">Añadir</string>
+    <string name="ver_mas">ver más</string>
+</resources>

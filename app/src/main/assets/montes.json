@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "nombre": "Mulhacén",
+    "continente": "Europa",
+    "altura": "3482",
+    "foto": "https://ullerco.com/cdn/shop/articles/mulhacen-b8badd05-1783-44b9-becd-a603cbfbf5f3.jpg?v=1647448449",
+    "urlinfo": "https://es.wikipedia.org/wiki/Mulhac%C3%A9n"
+  },
+  {
+    "id": 1,
+    "nombre": "Kilimanjaro",
+    "continente": "África",
+    "altura": "5895",
+    "foto": "https://static.nationalgeographic.es/files/styles/image_3200/public/zebras-kilimanjaro-africa.webp?w=1279&h=720",
+    "urlinfo": "https://es.wikipedia.org/wiki/Kilimanjaro"
+  },
+  {
+    "id": 2,
+    "nombre": "Everest",
+    "continente": "Asia",
+    "altura": "8849",
+    "foto": "https://static.nationalgeographic.es/files/styles/image_3200/public/everest-book-talk-climbers.webp?w=1279&h=720",
+    "urlinfo": "https://es.wikipedia.org/wiki/Monte_Everest"
+  }
+]
